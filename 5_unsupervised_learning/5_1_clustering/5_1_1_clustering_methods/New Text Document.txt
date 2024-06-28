@@ -1,0 +1,6 @@
+partitioning clustering
+hierarchical clustering
+spectral clustering
+density based clustering
+distribution based clustering
+clustering using self organizing map

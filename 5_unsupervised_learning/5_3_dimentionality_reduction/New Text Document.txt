@@ -1,0 +1,10 @@
+Principal Component Analysis (PCA)
+
+Eigenvalues and eigenvectors
+Dimensionality reduction with PCA
+Kernel PCA
+
+
+Non-negative Matrix Factorization (NMF)
+t-SNE (t-Distributed Stochastic Neighbor Embedding)
+Linear Discriminant Analysis (LDA)

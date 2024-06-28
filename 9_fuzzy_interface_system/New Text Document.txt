@@ -1,0 +1,2 @@
+Fuzzy Interface systems: Cognitive uncertainty and fuzzy rule-base, Fuzzy quantification of knowledge,fuzzy
+rule-base and approximate reasoning, Neuro-fuzzy interface systems, Genetic fuzzy systems

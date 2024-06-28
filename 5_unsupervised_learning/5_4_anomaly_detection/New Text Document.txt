@@ -1,0 +1,3 @@
+Density-based Methods (k-Nearest Neighbors, Local Outlier Factor)
+Ensemble Methods (Isolation Forest, One-Class SVM)
+Autoencoders for Anomaly Detection

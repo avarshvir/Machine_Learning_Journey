@@ -1,0 +1,2 @@
+Decision tree learning: Classification decision tree, Measures of impurity for evaluating splits in decisiontrees
+Strength and weaknesses of decision tree approach

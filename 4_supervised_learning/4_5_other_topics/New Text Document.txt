@@ -1,0 +1,4 @@
+overfitting
+underfitting
+bias
+variance

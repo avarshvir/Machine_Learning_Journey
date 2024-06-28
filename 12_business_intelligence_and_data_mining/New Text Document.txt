@@ -1,0 +1,2 @@
+Business Intelligence and Data Mining techniques and Applications: Introduction to analytics, Basic analytic
+techniques, Data warehousing and online analytical processing, intelligent information retrieval systems

@@ -1,0 +1,8 @@
+Content-Based Filtering
+Collaborative Filtering
+
+User-Based Collaborative Filtering
+Item-Based Collaborative Filtering
+
+
+Matrix Factorization (SVD, SVD++)

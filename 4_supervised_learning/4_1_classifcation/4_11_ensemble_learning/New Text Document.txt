@@ -1,0 +1,4 @@
+Bagging (Bootstrap Aggregating)
+Random Forests
+Boosting (AdaBoost, Gradient Boosting)
+Stacking

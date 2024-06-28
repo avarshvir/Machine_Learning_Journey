@@ -1,0 +1,4 @@
+Market Basket Analysis
+Apriori Algorithm
+FP-Growth Algorithm
+Evaluation Metrics (Support, Confidence, Lift)

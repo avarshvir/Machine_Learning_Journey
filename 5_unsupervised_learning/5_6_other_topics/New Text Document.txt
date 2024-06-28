@@ -1,0 +1,19 @@
+Topic Modeling:
+
+Latent Dirichlet Allocation (LDA)
+Non-negative Matrix Factorization (NMF)
+
+
+Evaluation and Model Selection:
+
+Internal and External Cluster Evaluation Metrics
+Silhouette Analysis
+Elbow Method for K-Means
+Gap Statistic
+
+
+Advanced Topics:
+
+Semi-Supervised Learning
+Reinforcement Learning
+Deep Unsupervised Learning (Autoencoders, Generative Adversarial Networks)

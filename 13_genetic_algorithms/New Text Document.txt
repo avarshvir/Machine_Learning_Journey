@@ -1,0 +1,2 @@
+Genetic algorithm for search optimization: Overview of genetics, Genetics on computers, Basic genetic
+algorithm.
