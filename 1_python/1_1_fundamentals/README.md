@@ -1,4 +1,4 @@
-# Computer Vision Library
+# Python Fundamentals
 
 I already have a dedicated python fundamental repository. You can explore it for various implementations and resources.
 
