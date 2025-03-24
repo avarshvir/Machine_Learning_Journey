@@ -45,8 +45,11 @@ This Machine Learning repository provides implementation of various machine lear
   - Partial Derivatives </i>
 
 ### 3. Data Science [Link](https://github.com/avarshvir/Data_Science_Journey)
+<i>
+- All about data science
+</i>
 
-### 3. Data Preprocessing
+### 4. Data Preprocessing
 - **Data Wrangling and Preprocessing**
   - Data Cleaning
     - Handling Missing Values
