@@ -88,32 +88,23 @@ This Machine Learning repository provides implementation of various machine lear
     - Validation Curve
 - Train-Test Split
 
-### 5. Web Scraping [Linl](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/5_web_scraping)
+### 5. Web Scraping [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/5_web_scraping)
 All about Web Scraping using:
 - Requests
 - BeautifulSoup
 - Scrapy
 - Selenium
 
-### 6. Supervised Learning
+### 6. Supervised Learning [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/6_supervised_learning)
 - Classification
-  - Logistic Regression
-  - SVM
-  - k-NN
-  - Naive Bayes
-  - Decision Trees
-  - Random Forests
-  - XGBoost
-  - Ensemble Learning
-  - Binary and Multiclass Classification
-- **Regression**
-  - Linear Regression
-  - Ridge Regression
-  - Lasso Regression
-  - SVR
-  - Polynomial Regression
-- **Model Evaluation**
-- **Advanced Topics**
+  - Logistic Regression; SVM; k-NN
+  - Naive Bayes; Decision Trees; Random Forests
+  - XGBoost; Ensemble Learning; Binary and Multiclass Classification
+- Regression
+  - Linear Regression; Ridge Regression; Lasso Regression
+  - SVR; Polynomial Regression
+- Model Evaluation
+- Advanced Topics
 
 ### 4.5 Dimensionality Reduction
 - **Common Techniques**
