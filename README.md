@@ -167,10 +167,13 @@ All about Web Scraping using:
 - TensorFlow and Keras
 - PyTorch
 
-### 8. Evaluation and Model Selection
-- **Grid Search**
-- **Hyperparameter Tuning**
-- **Random Search**
+--- 
+
+### 13. NLP [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/13_nlp)
+- Core-Basics
+- NLTK
+- Spacy
+- Hugging Face and Transformers
 
 ### 9. Fuzzy Interface System
 
