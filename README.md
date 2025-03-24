@@ -120,10 +120,10 @@ All about Web Scraping using:
 - Anomaly Detection
 - Recommendation Systems
 
-### 9. Learning with SVM
-- **Perceptron Algorithm**
-- **Support Vector Machines (SVM)**
-- **Support Vector Regression (SVR)**
+### 9. Learning with SVM [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/9_learning_with_svm)
+- Perceptron Algorithm
+- Support Vector Machines (SVM)
+- Support Vector Regression (SVR)
 
 ### 7. Neural Networks
 - **Activation Functions**
