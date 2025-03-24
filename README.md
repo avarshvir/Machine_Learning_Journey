@@ -8,7 +8,7 @@ This Machine Learning repository provides implementation of various machine lear
 
 ## Directory Structure
 
-### 1. [Python](//github.com/avarshvir/Machine_Learning_Journey/tree/main/1_python)
+### [1. Python](//github.com/avarshvir/Machine_Learning_Journey/tree/main/1_python)
 - **Fundamentals**
 - **Data Structures**
 - **Object-Oriented Programming (OOP)**
