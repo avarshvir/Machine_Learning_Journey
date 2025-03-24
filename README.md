@@ -110,15 +110,15 @@ All about Web Scraping using:
 - Common Techniques
 - Advanced Techniques
 
-### 5. Unsupervised Learning
-- **Clustering**
-  - k-Means Clustering
-  - Hierarchical Clustering
-  - DBSCAN
-- **Association**
-- **Dimensionality Reduction Techniques**
-- **Anomaly Detection**
-- **Recommendation Systems**
+### 8. Unsupervised Learning [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/8_unsupervised_learning)
+- Clustering
+  - k-Means Clustering; Hierarchical Clustering
+  - DBSCAN; Mean Shift Algorithm
+- Association
+- Dimensionality Reduction Techniques
+  - PCA; Common DRT
+- Anomaly Detection
+- Recommendation Systems
 
 ### 6. Learning with SVM
 - **Perceptron Algorithm**
