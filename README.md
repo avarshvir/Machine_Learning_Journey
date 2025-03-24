@@ -179,6 +179,13 @@ All about Web Scraping using:
 - Spacy
 - Hugging Face and Transformers
 
+### 15. Computer Vision [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/15_computer_vision)
+- Core-Basics
+- OpenCV
+- MediaPipe
+- YOLO
+- Advance
+
 ### 9. Fuzzy Interface System
 
 ### 10. Data Transformation
