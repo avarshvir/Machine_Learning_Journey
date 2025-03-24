@@ -161,6 +161,12 @@ All about Web Scraping using:
 - LSTM
 - Transfer Learning
 
+---
+
+### 12. Deep Learning [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/12_deep_learning)
+- TensorFlow and Keras
+- PyTorch
+
 ### 8. Evaluation and Model Selection
 - **Grid Search**
 - **Hyperparameter Tuning**
