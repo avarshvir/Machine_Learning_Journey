@@ -179,6 +179,8 @@ All about Web Scraping using:
 - Spacy
 - Hugging Face and Transformers
 
+---
+
 ### 15. Computer Vision [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/15_computer_vision)
 - Core-Basics
 - OpenCV
@@ -186,23 +188,43 @@ All about Web Scraping using:
 - YOLO
 - Advance
 
-### 9. Fuzzy Interface System
+---
 
-### 10. Data Transformation
+### 16. Fuzzy Interface System [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/16_fuzzy_interface_system)
 
-### 11. Decision Tree
+---
 
-### 12. BI and data mining
+### 17. BI and data mining [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/17_business_intelligence_and_data_mining)
 
-### 13. Genetic Algorithms
+---
 
-### 14. Reinforcement Learning
+### 18. Genetic Algorithms [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/18_genetic_algorithms)
 
-### 15. Semi-Supervised Learning
+---
 
-### 16. Generative AI
+### 19. Reinforcement Learning
 
-### 17. Transfer Learning
+---
+
+### 20. Semi-Supervised Learning
+
+---
+
+### 21. Transfer Learning
+
+---
+
+### 22. Genrative AI
+
+---
+
+### 23. Transformers
+
+---
+
+### 24. Model Deployment
+
+---
 
 ###  Data Sets
 A collection of datasets for practice and experimentation.
