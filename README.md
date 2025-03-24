@@ -106,7 +106,7 @@ All about Web Scraping using:
 - Model Evaluation
 - Advanced Topics
 
-### 4.5 Dimensionality Reduction
+### 7 Dimensionality Reduction
 - **Common Techniques**
 - **Advanced Techniques**
 
