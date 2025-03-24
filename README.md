@@ -125,7 +125,7 @@ All about Web Scraping using:
 - Support Vector Machines (SVM)
 - Support Vector Regression (SVR)
 
-### 10. Neural Networks
+### 10. Neural Networks [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/10_neural_network)
 - Basics
 - Activation Functions; Sigmoid Function and Others....
 - Artificial Neural Networks (ANN)

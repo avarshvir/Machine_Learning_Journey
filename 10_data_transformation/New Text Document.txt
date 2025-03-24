@@ -1,5 +1,0 @@
-on book: m Gopal
-1) Data cleaning
-2) Derived attribute
-3) Discretizing Numeric Attribute
-4) Attribute Reduction Technique
