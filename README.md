@@ -114,7 +114,9 @@ All about Web Scraping using:
   - Linear Regression; Ridge Regression; Lasso Regression
   - SVR; Polynomial Regression
 - Model Evaluation
+  - Metrics like MSE; RMSE; Accuracy; Precision-Recall; F1 Score.
 - Advanced Topics
+  - Hyperparameter tuning; Cross-validation; Feature Engineering;
 
 ---
 
@@ -222,12 +224,30 @@ All about Web Scraping using:
 
 ---
 
-### 24. Model Deployment
+### 24. Model Deployment and Projects
 
 ---
 
 ###  Data Sets
 A collection of datasets for practice and experimentation.
+
+---
+
+## Machine Learning Projects
+### 🎯 Beginner Projects
+- House Price Prediction (Regression)
+- Spam Email Classifier (Naive Bayes)
+- Handwritten Digit Recognition (MNIST Dataset)
+
+### 🚀 Intermediate Projects
+- Fake News Detector (NLP)
+- Credit Card Fraud Detection (Anomaly Detection)
+- Stock Price Prediction (Time-Series Analysis)
+
+### 🔥 Advanced Projects
+- AI Chatbot using Transformers
+- Object Detection with YOLO
+- Autonomous Car Simulation with Reinforcement Learning
 
 ---
 
