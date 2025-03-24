@@ -49,21 +49,44 @@ This Machine Learning repository provides implementation of various machine lear
 - All about data science
 </i>
 
-### 4. Data Preprocessing
-- **Data Wrangling and Preprocessing**
+### 4. Data Preprocessing [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/4_data_preprocessing)
+- Data Wrangling and Preprocessing
   - Data Cleaning
     - Handling Missing Values
-    - Imputation
+      - Imputation; Remove missing values
+    - Correcting Inconsistencies
     - Removing Duplicates
+    - Data Type Conversion
   - Data Transformation
     - Feature Scaling
-      - Normalization
-      - Standardization
+      - Maximum Absolute Scaling; Normalization; Standardization
+    - Log Transformation
+    - Bining
     - Generalization
   - Feature Engineering
-    - Binary Encoding
-    - Label Encoding
-    - One-Hot Encoding
+    - Encoding Categorical Variables
+      - Binary Encoding; Label Encoding; One-Hot Encoding; Target Encoding
+    - Creating New Variables
+    - Feature Selection
+      - Filter Method; Wrappper Method; Embedded Method
+    - Dimentionality Reduction
+    - PCA
+    - t_SNE
+- EDA
+  - Data Visulization
+    - Univariate Analysis; Bivariate Analysis; Multivariate Analysis
+    - 3D Plots; Parallel Cordinates; Plots
+  - Outlier Detection
+    - Statistical Model; Visual Methods, ML Methods
+  - Feature Analysis
+    - Feature Distribution; Feature Correlation; Feature Importance
+  - Target Analysis
+  - Target Distribution; Class Imbalance; Target Correlation with features
+  - Model Diagnostics
+    - Bias Variance Trade-off
+      - bias; variance; overfitting; underfitting
+    - Learning Curve
+    - Validation Curve
 - **Exploratory Data Analysis (EDA)**
   - Data Visualization
   - Outlier Detection
