@@ -8,20 +8,23 @@ This Machine Learning repository provides implementation of various machine lear
 
 ## Directory Structure
 
-### [1. Python](//github.com/avarshvir/Machine_Learning_Journey/tree/main/1_python)
-- **Fundamentals**
-- **Data Structures**
-- **Object-Oriented Programming (OOP)**
-- **Exceptional Handling**
-- **Libraries**
-  - **NumPy**
-  - **Pandas**
-  - **Matplotlib**
-  - **Seaborn**
-  - **OpenCV**
-- **Multithreading**
-- **Networking**
-- **Database**
+### 1. Python [Link](//github.com/avarshvir/Machine_Learning_Journey/tree/main/1_python)
+- Fundamentals and Basics
+- Data Structures
+- Object-Oriented Programming (OOP)
+- File Handling
+- Exceptional Handling
+- Libraries
+  - NumPy
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Plotly
+  - OpenCV
+- Multithreading
+- Networking
+- Database
+- Graphics 
 
 ### 2. Mathematics for Machine Learning
 - **Statistics**
