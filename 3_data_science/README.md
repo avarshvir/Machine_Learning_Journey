@@ -2,7 +2,7 @@
 
 I have already created a separate Data Science Repository which contains the following content in detail:
 <br>
-Link [Google](https://github.com/avarshvir/Data_Science_Journey)
+[Link](https://github.com/avarshvir/Data_Science_Journey)
 
 ## Data Science Terms
 
