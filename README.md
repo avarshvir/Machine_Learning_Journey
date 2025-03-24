@@ -29,7 +29,6 @@ This Machine Learning repository provides implementation of various machine lear
 - Graphics </i>
 
 ### 2. Mathematics for Machine Learning [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/2_mathematics_for_ml)
-<i>
 - Statistics
   - Descriptive Statistics
   - Inferential Statistics
@@ -42,7 +41,7 @@ This Machine Learning repository provides implementation of various machine lear
 - Calculus
   - Gradient Descent
   - Limits and Derivatives
-  - Partial Derivatives </i>
+  - Partial Derivatives 
 
 ### 3. Data Science [Link](https://github.com/avarshvir/Data_Science_Journey)
 <i>
