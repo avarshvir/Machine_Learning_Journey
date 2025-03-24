@@ -1,0 +1,14 @@
+├───2_1_statistics
+│   ├───2_1_1_descriptive_statistics
+│   ├───2_1_2_inferential_statistics
+│   ├───2_1_3_probality
+│   └───2_1_4_hypothesis_testing
+├───2_2_linear_algebra
+│   ├───eigen_values_and_eigen_vectors
+│   ├───matrix_operations
+│   └───vectors_and_matrices
+├───2_3_calculus
+│   ├───gradient_descent
+│   ├───limit_and_derivatives
+│   └───partial_derivatives
+└───2_4_probality
