@@ -34,7 +34,8 @@ Different types of plots and graphs:
 - **Seaborn**
 - **Plotly**
 
-## Other Important Concepts
+## Other Important Concepts and Libraries
+- Web Scraping
 - OpenCV basics
 - Data Extraction from databases
 
