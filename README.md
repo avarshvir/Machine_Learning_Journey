@@ -106,9 +106,9 @@ All about Web Scraping using:
 - Model Evaluation
 - Advanced Topics
 
-### 7 Dimensionality Reduction
-- **Common Techniques**
-- **Advanced Techniques**
+### 7 Dimensionality Reduction [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/7_dimentionality_reduction)
+- Common Techniques
+- Advanced Techniques
 
 ### 5. Unsupervised Learning
 - **Clustering**
