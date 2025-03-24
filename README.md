@@ -86,13 +86,14 @@ This Machine Learning repository provides implementation of various machine lear
       - bias; variance; overfitting; underfitting
     - Learning Curve
     - Validation Curve
-- **Exploratory Data Analysis (EDA)**
-  - Data Visualization
-  - Outlier Detection
-  - Target Encoding
-  - Frequency Encoding
-  - Assessing Bias and Variance
-- **Train-Test Split**
+- Train-Test Split
+
+### 5. Web Scraping [Linl](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/5_web_scraping)
+All about Web Scraping using:
+- Requests
+- BeautifulSoup
+- Scrapy
+- Selenium
 
 ### 4. Supervised Learning
 - **Classification**
