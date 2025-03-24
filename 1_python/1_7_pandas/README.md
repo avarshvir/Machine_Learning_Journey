@@ -1,4 +1,4 @@
-# Python Panda
+# Python Pandas
 
 I already have a dedicated python Pandas repository. You can explore it for various implementations and resources.
 
