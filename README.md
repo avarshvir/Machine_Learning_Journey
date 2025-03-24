@@ -95,8 +95,8 @@ All about Web Scraping using:
 - Scrapy
 - Selenium
 
-### 4. Supervised Learning
-- **Classification**
+### 6. Supervised Learning
+- Classification
   - Logistic Regression
   - SVM
   - k-NN
