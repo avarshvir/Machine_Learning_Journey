@@ -169,7 +169,11 @@ All about Web Scraping using:
 
 --- 
 
-### 13. NLP [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/13_nlp)
+### 13. Decision Tree [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/13_decision_tree)
+
+---
+
+### 14. NLP [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/14_nlp)
 - Core-Basics
 - NLTK
 - Spacy
