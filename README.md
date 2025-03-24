@@ -120,7 +120,7 @@ All about Web Scraping using:
 - Anomaly Detection
 - Recommendation Systems
 
-### 6. Learning with SVM
+### 9. Learning with SVM
 - **Perceptron Algorithm**
 - **Support Vector Machines (SVM)**
 - **Support Vector Regression (SVR)**
