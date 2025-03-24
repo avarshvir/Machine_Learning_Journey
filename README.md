@@ -125,14 +125,16 @@ All about Web Scraping using:
 - Support Vector Machines (SVM)
 - Support Vector Regression (SVR)
 
-### 7. Neural Networks
-- **Activation Functions**
-- **Artificial Neural Networks (ANN)**
-- **Autoencoders**
-- **Convolutional Neural Networks (CNN)**
-- **Recurrent Neural Networks (RNN)**
-- **Generative Adversarial Networks (GANs)**
-- **Transfer Learning**
+### 10. Neural Networks
+- Basics
+- Activation Functions; Sigmoid Function and Others....
+- Artificial Neural Networks (ANN)
+- Autoencoders
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Generative Adversarial Networks (GANs)
+- LSTM
+- Transfer Learning
 
 ### 8. Evaluation and Model Selection
 - **Grid Search**
