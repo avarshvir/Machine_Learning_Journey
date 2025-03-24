@@ -143,7 +143,7 @@ All about Web Scraping using:
 
 ---
 
-### 10. Evaluation and Model Selection [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/10_evealuation_and_model_selection)
+### 10. Evaluation and Model Selection [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/10_evaluation_and_model_selection)
 - **Grid Search**
 - **Hyperparameter Tuning**
 - **Random Search**
