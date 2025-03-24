@@ -45,10 +45,14 @@ This Machine Learning repository provides implementation of various machine lear
   - Limits and Derivatives
   - Partial Derivatives 
 
+---
+
 ### 3. Data Science [Link](https://github.com/avarshvir/Data_Science_Journey)
 <i>
 - All about data science
 </i>
+
+---
 
 ### 4. Data Preprocessing [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/4_data_preprocessing)
 - Data Wrangling and Preprocessing
@@ -90,12 +94,16 @@ This Machine Learning repository provides implementation of various machine lear
     - Validation Curve
 - Train-Test Split
 
+---
+
 ### 5. Web Scraping [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/5_web_scraping)
 All about Web Scraping using:
 - Requests
 - BeautifulSoup
 - Scrapy
 - Selenium
+
+---
 
 ### 6. Supervised Learning [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/6_supervised_learning)
 - Classification
@@ -108,9 +116,13 @@ All about Web Scraping using:
 - Model Evaluation
 - Advanced Topics
 
+---
+
 ### 7 Dimensionality Reduction [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/7_dimentionality_reduction)
 - Common Techniques
 - Advanced Techniques
+
+---
 
 ### 8. Unsupervised Learning [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/8_unsupervised_learning)
 - Clustering
@@ -122,10 +134,21 @@ All about Web Scraping using:
 - Anomaly Detection
 - Recommendation Systems
 
+---
+
 ### 9. Learning with SVM [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/9_learning_with_svm)
 - Perceptron Algorithm
 - Support Vector Machines (SVM)
 - Support Vector Regression (SVR)
+
+---
+
+### 10. Evaluation and Model Selection [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/10_evealuation_and_model_selection)
+- **Grid Search**
+- **Hyperparameter Tuning**
+- **Random Search**
+
+---
 
 ### 11. Neural Networks [Link](https://github.com/avarshvir/Machine_Learning_Journey/tree/main/11_neural_network)
 - Basics
