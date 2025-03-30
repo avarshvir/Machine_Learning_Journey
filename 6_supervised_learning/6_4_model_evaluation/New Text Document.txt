@@ -1,5 +1,5 @@
 Train-Test Split and Cross-Validation
-Evaluation Metrics (Accuracy, Precision, Recall, F1-score) -> classification
+Evaluation Metrics (Accuracy, Confusion Matrix, Precision, Recall, F1-score, Specificity, ROC-AUC, PR-AUC, Log Loss, MCC) -> classification
 Evaluation Metrics (MAE, MSE, RMSE, R^2, Adjusted R^2, MAPE, RMSLE, MedAE, MBD) -> regression
 Confusion Matrix
 Bias-Variance Tradeoff
