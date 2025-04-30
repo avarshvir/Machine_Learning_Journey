@@ -1,1 +1,5 @@
 Recurrent Neural Networks (RNNs) are a class of neural networks that are used for modeling sequence data such as time series or natural language.
+_________________________________________________________________
+Recurrent Neural Networks (RNNs) work a bit different from regular neural networks. In neural network the information flows in one direction from input to output. However in RNN information is fed back into the system after each step. Think of it like reading a sentence, when you’re trying to predict the next word you don’t just look at the current word but also need to remember the words that came before to make accurate guess.
+
+RNNs allow the network to “remember” past information by feeding the output from one step into next step. This helps the network understand the context of what has already happened and make better predictions based on that. For example when predicting the next word in a sentence the RNN uses the previous words to help decide what word is most likely to come next.
