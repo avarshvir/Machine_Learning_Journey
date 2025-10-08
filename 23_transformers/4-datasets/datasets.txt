@@ -1,0 +1,3 @@
+pip install datasets
+pip install pytorch
+pip install transformers
