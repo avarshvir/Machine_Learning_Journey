@@ -25,6 +25,6 @@ def simple_lemmatizer(word):
     return word  # unchanged if no rule applies
 
 # try it!
-words = ['is', 'studied', 'studies', 'studying', 'cars', 'better']
+words = ['is', 'studied', 'studies', 'studying', 'cars', 'better','braked']
 lemmas = [simple_lemmatizer(w) for w in words]
 print(list(zip(words, lemmas)))
